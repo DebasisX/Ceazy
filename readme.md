@@ -1,5 +1,4 @@
-# This is my OS Ceazy. 
-I fucking call it whatever I want.
+# This is my OS Ceazy. Just starting off.
 
 Pre-requisities:
 x86 ASM, C, OS (Theory)
